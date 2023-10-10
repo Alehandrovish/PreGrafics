@@ -1,0 +1,71 @@
+.page_list{
+    width: 794px;
+    margin: 0 auto;
+}
+.page{
+    height:1123px;
+    width: 794px;
+    border: black solid 1px;
+    margin-bottom: 15px;
+    padding: 76px 57px 76px 113px;
+}
+.page_main_up{
+    max-height: 33%;
+    margin-bottom: 126px;
+}
+.page_main_up p{
+    text-align: center;
+    font-size: 18px;
+}
+.page_main_midle{
+    display: flex;
+    flex-direction: column;
+    max-height: 33%;
+    text-align: center;
+    margin-bottom:126px ;
+}
+.page_main_midle p{
+    font-size: 18px;
+}
+.page_main_bottom{
+    height: 30%;
+}
+.page_main_bottom p{
+    font-size: 18px;
+}
+.page_main_bottom_execute{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-bottom:36px;
+}
+.page_text{
+    font-size: 18px;
+}
+.page_block_task{
+    text-align: center;
+}
+.page_block_animate{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+.page_block_task img{
+    text-align: center;
+    max-width: 300px;
+    max-height: 300px;
+}
+.page_block_task_img{
+    max-width: 400px;
+    max-height: 230px;
+}
+.page_block_task p{
+    font-size: 18px;
+    margin-bottom: 38px;
+}
+.page_text{
+    font-size: 18px;
+}
